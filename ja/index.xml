@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xxx</title>
+    <link>https://funnymarigold.github.io/ja/</link>
+    <description>Recent content from xxx</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    
+    <managingEditor>xxx@example.com (D-Sketon)</managingEditor>
+    <webMaster>xxx@example.com (D-Sketon)</webMaster>
+    
+    <copyright></copyright>
+    
+    
+    <atom:link href="https://funnymarigold.github.io/ja/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+  </channel>
+</rss>
