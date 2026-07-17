@@ -12,7 +12,5 @@ draft = false
 
 \# 欢迎来到我的博客
 
-这是我搭建完成后的第一篇博文，使用 Hugo + GitHub Actions 自动部署。
-
-&#x20; misono mika
+这是我搭建完成后的第一篇博文
 
