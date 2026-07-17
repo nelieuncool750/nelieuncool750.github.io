@@ -1,16 +1,28 @@
-+++
+\---
 
-title = "测试博文 Hello Blog"
+title: "测试博文 Hello Blog"
 
-date = 2026-07-17
+date: 2026-07-17
 
-tags = \["测试", "调试"]
+tags: \["测试"]
 
-draft = false
+draft: true
 
-+++
+\---
 
-\# 欢迎来到我的博客
+Hello Blog，站点部署测试成功。
 
-这是我搭建完成后的第一篇博文
+
+
+```java
+
+public class Test {
+
+&#x20;   public static void main(String\[] args) {
+
+&#x20;       System.out.println("构建正常");
+
+&#x20;   }
+
+}
 
